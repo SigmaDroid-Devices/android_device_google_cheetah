@@ -2,7 +2,6 @@
   {
     "repository": "device_google_pantah",
     "target_path": "device/google/pantah",
-    "remote": "sigma-devices",
-    "branch": "sigma-14"
+    "remote": "sigma-devices"
   }
 ]
